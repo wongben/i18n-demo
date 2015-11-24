@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var label: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        //Demo
         label.text = NSLocalizedString("labelInCode",tableName: "ViewController", comment: "labelInCode")
         // Do any additional setup after loading the view, typically from a nib.
     }
