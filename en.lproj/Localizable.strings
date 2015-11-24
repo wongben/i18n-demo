@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Demo-i18n
+
+  Created by WongBen on 15/10/28.
+  Copyright © 2015年 com.ben.wong. All rights reserved.
+*/
+
+"labelInCode" = "You like?";
